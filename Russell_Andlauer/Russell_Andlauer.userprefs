@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Camera Scripts\Biplane_Camera_Chase.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="22" Column="70" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\Biplane_Camera_Chase.js" Line="16" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
